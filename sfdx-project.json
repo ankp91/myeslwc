@@ -1,12 +1,10 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
-  ],
-  "name": "myeslwc",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "51.0"
+    "packageDirectories": [{
+        "path": "es-base-objects",
+        "default": true
+    }],
+    "name": "myeslwc",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "51.0"
 }
